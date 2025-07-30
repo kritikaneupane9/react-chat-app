@@ -1,0 +1,15 @@
+/* src/Message.css */
+.message {
+  background: #dcf8c6;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px 0;
+  max-width: 60%;
+  align-self: flex-start;
+}
+
+.message.own {
+  background: #34b7f1;
+  color: white;
+  align-self: flex-end;
+}
